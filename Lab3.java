@@ -1,4 +1,4 @@
-public class Lab3-nheritance {
+public class Lab3-In{
 
 
     
